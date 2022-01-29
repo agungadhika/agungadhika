@@ -1,9 +1,8 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
-### <h2> Hi, I'm Agung Adhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+## <h2> Hi, I'm Agung Adhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <p><em>Cyber Security</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-<br><br>- 📫 How to reach me:</br> </br>
+## <br><br>- 📫 How to reach me:</br> </br>
 [![Linkedin: agungadhika](https://img.shields.io/badge/-agungadhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agung-adhika-ba62901b2/)](https://www.linkedin.com/in/agung-adhika-ba62901b2/)
 <!--
 **agungadhika/agungadhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
