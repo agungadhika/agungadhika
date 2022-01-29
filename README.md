@@ -1,8 +1,13 @@
 ## <h2> Hi, I'm Agung Adhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<p><em>Cyber Security</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+- Cyber Security, DevOps.
+- Currently loved python programming language
+<!-- - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+<p><em>Cyber Security</a></br> -->
 
-## <br><br>- 📫 How to reach me:</br> </br>
+## <br><br>- 📫 How to reach me</br> </br>
 [![Linkedin: agungadhika](https://img.shields.io/badge/-agungadhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agung-adhika-ba62901b2/)](https://www.linkedin.com/in/agung-adhika-ba62901b2/)
 <!--
 **agungadhika/agungadhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
