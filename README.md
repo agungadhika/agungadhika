@@ -7,7 +7,7 @@
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 <p><em>Cyber Security</a></br> -->
 
-## <br><br>- 📫 How to reach me</br> </br>
+## <br><br>📫 How to reach me</br> </br>
 [![Linkedin: agungadhika](https://img.shields.io/badge/-agungadhika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agung-adhika-ba62901b2/)](https://www.linkedin.com/in/agung-adhika-ba62901b2/)
 <!--
 **agungadhika/agungadhika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
